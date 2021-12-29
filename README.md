@@ -1,3 +1,10 @@
+
+
+
+
+I wanted to try to set up a multi-language monorepo using bazel for experimentation purposes. You can follow the journey on YouTube.
+
+
 1. Bazel overview.
    1. Installing & using [bazelisk](https://github.com/bazelbuild/bazelisk).
    1. `WORKSPACE.bazel`, `BUILD.bazel` & creating our first build targets.
